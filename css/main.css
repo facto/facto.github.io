@@ -212,6 +212,9 @@ pre {
   padding: 30px 0; }
   .site-footer .description {
     text-align: right; }
+  .site-footer .made-with {
+    text-align: center;
+    font-size: 10px; }
 
 .footer-heading {
   font-size: 18px;
