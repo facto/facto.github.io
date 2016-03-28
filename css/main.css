@@ -38,6 +38,9 @@ img {
   max-width: 100%;
   vertical-align: middle; }
 
+hr {
+  margin-bottom: 15px; }
+
 /**
  * Figures
  */
