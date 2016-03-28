@@ -26,4 +26,4 @@ Nothing above a 3 should ever be delivered. In other words, 5s and 8s should alw
 
 The only thing I'd change about this process involves 5s and 8s. They should really be 20s and 50s.
 
-Remember: estimates are always lies. However, they can be little white lies that help us come a little closer to the truth.
+**Remember: estimates are always lies. However, they can be little white lies that help us come a little closer to the truth.**
