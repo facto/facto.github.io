@@ -22,3 +22,8 @@ This is my preferred interpretation:
 
 **8:** Pie-in-the-sky
 
+Nothing above a 3 should ever be delivered. In other words, 5s and 8s should always be broken down. The resulting stories will often add up to more than 5 or 8. That's ok.
+
+The only thing I'd change about this process involves 5s and 8s. They should really be 20s and 50s.
+
+Remember: estimates are always lies. However, they can be little white lies that help us come a little closer to the truth.
