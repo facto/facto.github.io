@@ -8,7 +8,7 @@ date: 2016-03-28T14:38:52-07:00
 
 I've used [Pivotal Tracker](https://www.pivotaltracker.com) for many years and find that it still provides tremendous value. There's an age-old debate: **which story point method should I use when estimating?**
 
-OK, so you've answered that. But what do those values mean? A little googling will quickly reveal that almost every developer has their own interpretation.
+I think the more important question is: What do those values mean? A little googling will quickly reveal that almost every developer has their own interpretation.
 
 I prefer the fibonacci sequence (0,1,2,3,5,8), and this is how I interpret it:
 
