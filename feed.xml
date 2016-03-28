@@ -6,9 +6,37 @@
 </description>
     <link>http://www.joshuarieken.com/</link>
     <atom:link href="http://www.joshuarieken.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 13 Nov 2015 17:03:00 -0600</pubDate>
-    <lastBuildDate>Fri, 13 Nov 2015 17:03:00 -0600</lastBuildDate>
-    <generator>Jekyll v3.0.0</generator>
+    <pubDate>Mon, 28 Mar 2016 15:00:54 -0700</pubDate>
+    <lastBuildDate>Mon, 28 Mar 2016 15:00:54 -0700</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>How I Estimate with Pivotal Tracker</title>
+        <description>&lt;p&gt;I’ve used Tracker for many years and find that it still provides tremendous value. There’s an age-old debate: &lt;strong&gt;which story point method should I use?&lt;/strong&gt; To me, the fibonacci sequence for story points is the most flexible and descriptive.&lt;/p&gt;
+
+&lt;p&gt;However, it seems that every developer has their own interpretation of what each point value actually means. I don’t think this is bad so long as everyone on the project has the same understanding.&lt;/p&gt;
+
+&lt;p&gt;This is my preferred interpretation:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;0:&lt;/strong&gt; Trivial and directly affects and is noticeable by the user (e.g., fixing a typo, altering some copy).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1:&lt;/strong&gt; Everything is known, and the feature is straightforward.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2:&lt;/strong&gt; Everything is known, and the feature has some complexity.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3:&lt;/strong&gt; There’s a good idea of how to move forward, but there’s an integration or some other aspect that may add unforeseen complexity.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5:&lt;/strong&gt; Too high-level and/or involves a large amount of complexity. Needs to be planned and possibly spiked.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;8:&lt;/strong&gt; Pie-in-the-sky&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 28 Mar 2016 14:38:52 -0700</pubDate>
+        <link>http://www.joshuarieken.com/2016/03/28/how-i-estimate-with-pivotal-tracker.html</link>
+        <guid isPermaLink="true">http://www.joshuarieken.com/2016/03/28/how-i-estimate-with-pivotal-tracker.html</guid>
+        
+        
+      </item>
     
   </channel>
 </rss>
