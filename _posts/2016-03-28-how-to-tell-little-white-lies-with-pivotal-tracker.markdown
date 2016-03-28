@@ -4,6 +4,8 @@ title: "How to Tell Little White Lies with Pivotal Tracker"
 date: 2016-03-28T14:38:52-07:00
 ---
 
+First of all, **estimates are always lies**. But let's forget about that for a second.
+
 I've used Tracker for many years and find that it still provides tremendous value. There's an age-old debate: **which story point method should I use when estimating?**
 
 OK, so you've answered that. But what do those values mean? A little googling will quickly reveal that almost every developer has their own interpretation.
