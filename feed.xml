@@ -6,8 +6,8 @@
 </description>
     <link>http://www.joshuarieken.com/</link>
     <atom:link href="http://www.joshuarieken.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 28 Mar 2016 15:41:06 -0700</pubDate>
-    <lastBuildDate>Mon, 28 Mar 2016 15:41:06 -0700</lastBuildDate>
+    <pubDate>Mon, 28 Mar 2016 15:43:30 -0700</pubDate>
+    <lastBuildDate>Mon, 28 Mar 2016 15:43:30 -0700</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -16,7 +16,7 @@
 
 &lt;p&gt;I’ve used &lt;a href=&quot;https://www.pivotaltracker.com&quot;&gt;Pivotal Tracker&lt;/a&gt; for many years and find that it still provides tremendous value. There’s an age-old debate: &lt;strong&gt;which story point method should I use when estimating?&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;OK, so you’ve answered that. But what do those values mean? A little googling will quickly reveal that almost every developer has their own interpretation.&lt;/p&gt;
+&lt;p&gt;I think the more important question is: What do those values mean? A little googling will quickly reveal that almost every developer has their own interpretation.&lt;/p&gt;
 
 &lt;p&gt;I prefer the fibonacci sequence (0,1,2,3,5,8), and this is how I interpret it:&lt;/p&gt;
 
