@@ -8,7 +8,7 @@ date: 2016-03-28T14:38:52-07:00
 
 I've used [Pivotal Tracker](https://www.pivotaltracker.com) for many years and find that it still provides tremendous value. There's an age-old debate: Which story point scale should I use when estimating? Is the default setting (Linear, or 0,1,2,3) sufficient?
 
-I think there's more important question: **What do story point values *mean?***
+I think there's a more important question: **What do story point values *mean?***
 
 This turns out to be pretty tricky. A little googling will quickly reveal that almost every developer has their own interpretation.
 
