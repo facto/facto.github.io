@@ -64,33 +64,46 @@
   <div class="post-content" itemprop="articleBody">
     <p><a href="http://softwareforgood.com/estimates-lies/">Estimates are always lies</a>. But let’s forget about that for a second.</p>
 
-<p>I’ve used <a href="https://www.pivotaltracker.com">Pivotal Tracker</a> for many years and find that it still provides tremendous value. There’s an age-old debate: Which story point method should I use when estimating?</p>
+<p>I’ve used <a href="https://www.pivotaltracker.com">Pivotal Tracker</a> for many years and find that it still provides tremendous value. There’s an age-old debate: Which story point scale should I use when estimating? Is the default setting (Linear, or 0,1,2,3) sufficient?</p>
 
-<p>I think the more important question is: <strong>What do story point values mean?</strong> A little googling will quickly reveal that almost every developer has their own interpretation.</p>
+<p>I think there’s more important question: <strong>What do story point values <em>mean?</em></strong></p>
 
-<p>I prefer the fibonacci sequence (0,1,2,3,5,8), and this is how I interpret it:</p>
+<p>This turns out to be pretty tricky. A little googling will quickly reveal that almost every developer has their own interpretation.</p>
 
-<hr />
+<p>The answer needs to provide conceptual tools to aid our estimation efforts, not hinder them, or worse, frustrate us to the point of abandoning them altogether.</p>
 
-<p><strong>0:</strong> Trivial and directly affects and is noticeable by the user (e.g., fixing a typo, altering some copy).</p>
-
-<p><strong>1:</strong> Everything is known, and the feature is straightforward.</p>
-
-<p><strong>2:</strong> Everything is known, and the feature has some complexity.</p>
-
-<p><strong>3:</strong> There’s a good idea of how to move forward, but there’s an integration or some other aspect that may add unforeseen complexity.</p>
-
-<p><strong>5:</strong> Too high-level and/or involves a large amount of complexity. Needs to be planned and possibly spiked.</p>
-
-<p><strong>8:</strong> Pie-in-the-sky</p>
+<p>Keeping in mind that there’s no such thing as perfection in Estimation Land, consider the fibonacci sequence (0,1,2,3,5,8) interpreted as follows:</p>
 
 <hr />
 
-<p><strong>Nothing above a 3 should ever be delivered.</strong> In other words, 5s and 8s should always be broken down. The resulting stories will often add up to more than 5 or 8. That’s ok.</p>
+<p><strong>0:</strong> Something trivial which directly affects and is noticeable by the user (e.g., fixing a typo, altering some copy).</p>
 
-<p>The only thing I’d change about this process involves 5s and 8s. They should really be 20s and 50s to better reflect what they turn out to be in practice.</p>
+<p><strong>1:</strong> A feature about which everything is known, and implementation is straightforward.</p>
 
-<p><strong>Remember: estimates are always lies. However, they can be little white lies that help us come a little closer to the truth.</strong></p>
+<p><strong>2:</strong> A feature about which everything is known, and there’s some complexity involved.</p>
+
+<p><strong>3:</strong> A somewhat fuzzy feature. There’s a good idea of how to move forward, but there’s an integration or some other aspect that may add unforeseen complexity.</p>
+
+<p><strong>5:</strong> A feature that needs to be planned. It’s too high-level and/or involves a large amount of complexity. Some exploratory work may need to be done.</p>
+
+<p><strong>8:</strong> A pie-in-the-sky feature. There’s lots of discussion, exploration and planning to be done.</p>
+
+<hr />
+
+<p>I find this fulfills my requirements for a useful estimation method.</p>
+
+<p>Also, consider these meta rules:</p>
+
+<ol>
+  <li>
+    <p><strong>Nothing above a 3 should ever be started.</strong> This means that 5s and 8s should always be broken down. The resulting stories will often add up to more than 5 or 8. That’s ok.</p>
+  </li>
+  <li>
+    <p>Furthermore, <strong>try not to put 5s and 8s in the backlog</strong>. I find they skew the overall point count. They should really be 21s and 55s to better reflect what they often turn out to be in practice.</p>
+  </li>
+</ol>
+
+<p><strong>Remember: estimates are always lies. However, they can be <em>useful</em> little white lies that help us inch closer to the truth.</strong></p>
 
   </div>
 

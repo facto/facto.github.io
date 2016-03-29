@@ -6,41 +6,54 @@
 </description>
     <link>http://www.joshuarieken.com/</link>
     <atom:link href="http://www.joshuarieken.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 28 Mar 2016 15:45:34 -0700</pubDate>
-    <lastBuildDate>Mon, 28 Mar 2016 15:45:34 -0700</lastBuildDate>
+    <pubDate>Tue, 29 Mar 2016 01:19:28 -0700</pubDate>
+    <lastBuildDate>Tue, 29 Mar 2016 01:19:28 -0700</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
         <title>How to Tell Little White Lies with Pivotal Tracker</title>
         <description>&lt;p&gt;&lt;a href=&quot;http://softwareforgood.com/estimates-lies/&quot;&gt;Estimates are always lies&lt;/a&gt;. But let’s forget about that for a second.&lt;/p&gt;
 
-&lt;p&gt;I’ve used &lt;a href=&quot;https://www.pivotaltracker.com&quot;&gt;Pivotal Tracker&lt;/a&gt; for many years and find that it still provides tremendous value. There’s an age-old debate: Which story point method should I use when estimating?&lt;/p&gt;
+&lt;p&gt;I’ve used &lt;a href=&quot;https://www.pivotaltracker.com&quot;&gt;Pivotal Tracker&lt;/a&gt; for many years and find that it still provides tremendous value. There’s an age-old debate: Which story point scale should I use when estimating? Is the default setting (Linear, or 0,1,2,3) sufficient?&lt;/p&gt;
 
-&lt;p&gt;I think the more important question is: &lt;strong&gt;What do story point values mean?&lt;/strong&gt; A little googling will quickly reveal that almost every developer has their own interpretation.&lt;/p&gt;
+&lt;p&gt;I think there’s more important question: &lt;strong&gt;What do story point values &lt;em&gt;mean?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;I prefer the fibonacci sequence (0,1,2,3,5,8), and this is how I interpret it:&lt;/p&gt;
+&lt;p&gt;This turns out to be pretty tricky. A little googling will quickly reveal that almost every developer has their own interpretation.&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;The answer needs to provide conceptual tools to aid our estimation efforts, not hinder them, or worse, frustrate us to the point of abandoning them altogether.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;0:&lt;/strong&gt; Trivial and directly affects and is noticeable by the user (e.g., fixing a typo, altering some copy).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;1:&lt;/strong&gt; Everything is known, and the feature is straightforward.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;2:&lt;/strong&gt; Everything is known, and the feature has some complexity.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;3:&lt;/strong&gt; There’s a good idea of how to move forward, but there’s an integration or some other aspect that may add unforeseen complexity.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;5:&lt;/strong&gt; Too high-level and/or involves a large amount of complexity. Needs to be planned and possibly spiked.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;8:&lt;/strong&gt; Pie-in-the-sky&lt;/p&gt;
+&lt;p&gt;Keeping in mind that there’s no such thing as perfection in Estimation Land, consider the fibonacci sequence (0,1,2,3,5,8) interpreted as follows:&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;strong&gt;Nothing above a 3 should ever be delivered.&lt;/strong&gt; In other words, 5s and 8s should always be broken down. The resulting stories will often add up to more than 5 or 8. That’s ok.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;0:&lt;/strong&gt; Something trivial which directly affects and is noticeable by the user (e.g., fixing a typo, altering some copy).&lt;/p&gt;
 
-&lt;p&gt;The only thing I’d change about this process involves 5s and 8s. They should really be 20s and 50s to better reflect what they turn out to be in practice.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1:&lt;/strong&gt; A feature about which everything is known, and implementation is straightforward.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Remember: estimates are always lies. However, they can be little white lies that help us come a little closer to the truth.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2:&lt;/strong&gt; A feature about which everything is known, and there’s some complexity involved.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3:&lt;/strong&gt; A somewhat fuzzy feature. There’s a good idea of how to move forward, but there’s an integration or some other aspect that may add unforeseen complexity.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5:&lt;/strong&gt; A feature that needs to be planned. It’s too high-level and/or involves a large amount of complexity. Some exploratory work may need to be done.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;8:&lt;/strong&gt; A pie-in-the-sky feature. There’s lots of discussion, exploration and planning to be done.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I find this fulfills my requirements for a useful estimation method.&lt;/p&gt;
+
+&lt;p&gt;Also, consider these meta rules:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Nothing above a 3 should ever be started.&lt;/strong&gt; This means that 5s and 8s should always be broken down. The resulting stories will often add up to more than 5 or 8. That’s ok.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Furthermore, &lt;strong&gt;try not to put 5s and 8s in the backlog&lt;/strong&gt;. I find they skew the overall point count. They should really be 21s and 55s to better reflect what they often turn out to be in practice.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Remember: estimates are always lies. However, they can be &lt;em&gt;useful&lt;/em&gt; little white lies that help us inch closer to the truth.&lt;/strong&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 28 Mar 2016 14:38:52 -0700</pubDate>
         <link>http://www.joshuarieken.com/2016/03/28/how-to-tell-little-white-lies-with-pivotal-tracker.html</link>
