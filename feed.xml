@@ -6,8 +6,8 @@
 </description>
     <link>http://www.joshuarieken.com/</link>
     <atom:link href="http://www.joshuarieken.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 29 Mar 2016 01:19:28 -0700</pubDate>
-    <lastBuildDate>Tue, 29 Mar 2016 01:19:28 -0700</lastBuildDate>
+    <pubDate>Tue, 29 Mar 2016 01:20:14 -0700</pubDate>
+    <lastBuildDate>Tue, 29 Mar 2016 01:20:14 -0700</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -16,7 +16,7 @@
 
 &lt;p&gt;I’ve used &lt;a href=&quot;https://www.pivotaltracker.com&quot;&gt;Pivotal Tracker&lt;/a&gt; for many years and find that it still provides tremendous value. There’s an age-old debate: Which story point scale should I use when estimating? Is the default setting (Linear, or 0,1,2,3) sufficient?&lt;/p&gt;
 
-&lt;p&gt;I think there’s more important question: &lt;strong&gt;What do story point values &lt;em&gt;mean?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I think there’s a more important question: &lt;strong&gt;What do story point values &lt;em&gt;mean?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;This turns out to be pretty tricky. A little googling will quickly reveal that almost every developer has their own interpretation.&lt;/p&gt;
 
