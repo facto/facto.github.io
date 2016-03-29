@@ -15,5 +15,7 @@ url: "http://www.joshuarieken.com" # the base hostname & protocol for your site
 twitter_username: tehhax
 github_username:  facto
 
+disqus_short_name: "joshrieken"
+
 # Build settings
 markdown: kramdown
