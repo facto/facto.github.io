@@ -178,6 +178,26 @@
  */
 .page-content {
     padding: $spacing-unit 0;
+
+    h1,h2,h3,h4,h5,h6,p,li,ul,ol {
+      max-width: $text-content-width;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    p, li, ul, ol {
+      margin: 20px auto;
+    }
+
+    ul, ol {
+      padding-left: 48px;
+    }
+
+    hr {
+      max-width: -webkit-calc(#{$text-content-width} - 100px);
+      max-width:         calc(#{$text-content-width} - 100px);
+      margin: 50px auto;
+    }
 }
 
 .page-heading {
